@@ -1,0 +1,6 @@
+venv/
+.env
+transcripts/
+
+url.txt
+downloads/
